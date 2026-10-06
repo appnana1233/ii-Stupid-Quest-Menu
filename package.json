@@ -1,0 +1,13 @@
+{
+  "name": "ii-menu-quest-tag-on-device",
+  "version": "1.0.0",
+  "private": true,
+  "description": "On-device rooted Android launcher and build tooling for ii's Quest Menu",
+  "scripts": {
+    "build:agent": "bash scripts/build-agent.sh",
+    "check": "npm run build:agent && bash scripts/check.sh"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.10"
+  }
+}

@@ -1,4 +1,4 @@
-# ii's Quest Menu — Rooted Android On-Device Edition
+# ii's Quest Menu — Rooted Android On-Device Edition plus the worst menu ever lol
 
 This package adapts the archived **ii's Quest Menu** Frida project so it can be launched **directly from a rooted ARM64 Android/Meta Quest device**. After copying the package to the device, you do not need a PC, an ADB-over-Wi-Fi connection, a Python Frida client, or a running `frida-server`.
 
